@@ -1,0 +1,16 @@
+*.mat
+*.csv
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.edf
+*.xlsx
+*.fig
+*.png
+*.tif
+__pycache__/
+*.pyc
+pub.py
+slug*.txt
