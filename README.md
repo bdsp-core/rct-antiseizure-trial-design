@@ -1,5 +1,9 @@
 # How many patients do you need? — trial-design simulation for anti-seizure treatment
 
+> **Code repository.** This repo holds the analysis code; the de-identified **data** live in the bdsp.io **credentialed release** (data → AWS, code → GitHub):
+> [bdsp.io/content/nu7k0916y63wxk4j2dbi/1.0.0](https://bdsp.io/content/nu7k0916y63wxk4j2dbi/1.0.0/) · DOI [10.60508/chjy-bf16](https://doi.org/10.60508/chjy-bf16) · `s3://bdsp-opendata-credentialed/rct-antiseizure-trial-design/`
+
+
 MATLAB/Python code and de-identified data for:
 
 > Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, **Westover MB**, Zafar SF.
